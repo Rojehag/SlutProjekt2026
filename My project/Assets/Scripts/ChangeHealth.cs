@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class ChangeHealth : MonoBehaviour
 {
-    int health;
+    protected int health;
     int maxHealth;
 
-    int armorAmount;
+    
 
     private void Start()
     {
@@ -15,32 +15,16 @@ public class ChangeHealth : MonoBehaviour
     {
         if(health <= 0)
         {
-            //Player is dead
+            Death();
         }
     }
 
-    public void ChangeHealthAmount(int amount)
+    public virtual void ChangeHealthAmount(int amount)
     {
-        if (amount < 0)
-        {
-            if (armorAmount > 0)
-            {
-                armorAmount += amount;
-                if (armorAmount < 0)
-                {
-                    health += armorAmount;
-                    armorAmount = 0;
-                }
-            }
-            else
-            {
-                health += amount;
-            }
-        }
-        else
-        {
-            health += amount;
-        }
+        
+        
+        health += amount;
+        
     }
     public virtual void Death()
     {

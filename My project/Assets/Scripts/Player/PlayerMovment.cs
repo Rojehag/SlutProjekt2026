@@ -28,11 +28,11 @@ public class PlayerMovment : MonoBehaviour
         //Player movement and jump
         if (Input.GetKey(KeyCode.A))
         {
-            Movment(Vector2.left, playerSpeed);
+            Movment(new Vector2(-playerSpeed, playerRb.linearVelocity.y));
         }
         else if (Input.GetKey(KeyCode.D))
         {
-            Movment(Vector2.right, playerSpeed);
+            Movment(new Vector2(playerSpeed, playerRb.linearVelocity.y));
         }
         else
         {
@@ -47,10 +47,10 @@ public class PlayerMovment : MonoBehaviour
     }
 
     //Function to move the player in the direction of the input and speed
-    void Movment(Vector2 direction, int speed)
+    void Movment(Vector2 direction)
     {
-        
-        playerRb.linearVelocity = direction * speed;
+
+        playerRb.linearVelocity = direction;
 
     }
 
