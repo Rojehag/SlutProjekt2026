@@ -3,12 +3,7 @@ using UnityEngine;
 public class PlayerHealth : ChangeHealth
 {
     int armorAmount;
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+ 
 
     public override void ChangeHealthAmount(int amount)
     {
@@ -21,11 +16,13 @@ public class PlayerHealth : ChangeHealth
                 {
                     health += armorAmount;
                     armorAmount = 0;
+                    UpdateHealthbar();
                 }
             }
             else
             {
                 health += amount;
+                UpdateHealthbar();
             }
         }
     }

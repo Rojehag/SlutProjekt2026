@@ -6,7 +6,7 @@ public class Physics : MonoBehaviour
     [SerializeField] float gravity = 9.82f;
     public Vector2 playerDirection;
 
-    [SerializeField] GameObject groundCheck;
+
         
         
     float time;
@@ -18,7 +18,7 @@ public class Physics : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (!groundCheck.GetComponent<IsGrounded>().isGrounded)
+        if (!GetComponent<PlayerMovment>().CheckIfGrounded())
         {
             playerDirection.y = gravity * playerRb.mass;
         }
