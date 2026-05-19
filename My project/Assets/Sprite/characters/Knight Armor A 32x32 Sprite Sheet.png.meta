@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 5ca3d55d8446f3f4a9c31435084e92e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1896710444255051207
+    second: Knight Armor A 32x32 Sprite Sheet_0
+  - first:
+      213: -219581882970338831
+    second: Knight Armor A 32x32 Sprite Sheet_1
+  - first:
+      213: 2877428690626824246
+    second: Knight Armor A 32x32 Sprite Sheet_2
+  - first:
+      213: 5867062271892074807
+    second: Knight Armor A 32x32 Sprite Sheet_3
+  - first:
+      213: -3070424651210293226
+    second: Knight Armor A 32x32 Sprite Sheet_4
+  - first:
+      213: 8803017829153622936
+    second: Knight Armor A 32x32 Sprite Sheet_5
+  - first:
+      213: -1720118514616105465
+    second: Knight Armor A 32x32 Sprite Sheet_6
+  - first:
+      213: 6181376009883821977
+    second: Knight Armor A 32x32 Sprite Sheet_7
+  - first:
+      213: -323805025225188944
+    second: Knight Armor A 32x32 Sprite Sheet_8
+  - first:
+      213: -6834905654988422858
+    second: Knight Armor A 32x32 Sprite Sheet_9
+  - first:
+      213: 2731191600682234194
+    second: Knight Armor A 32x32 Sprite Sheet_10
+  - first:
+      213: 7122852826855421338
+    second: Knight Armor A 32x32 Sprite Sheet_11
+  - first:
+      213: -6494091602984293544
+    second: Knight Armor A 32x32 Sprite Sheet_12
+  - first:
+      213: 4882863357467301037
+    second: Knight Armor A 32x32 Sprite Sheet_13
+  - first:
+      213: -2611141362869899484
+    second: Knight Armor A 32x32 Sprite Sheet_14
+  - first:
+      213: -506918881840092394
+    second: Knight Armor A 32x32 Sprite Sheet_15
+  - first:
+      213: 6705717705100953773
+    second: Knight Armor A 32x32 Sprite Sheet_16
+  - first:
+      213: 7242124773638826062
+    second: Knight Armor A 32x32 Sprite Sheet_17
+  - first:
+      213: -3324141687332619341
+    second: Knight Armor A 32x32 Sprite Sheet_18
+  - first:
+      213: 2027932406691199393
+    second: Knight Armor A 32x32 Sprite Sheet_19
+  - first:
+      213: 6266154220732545745
+    second: Knight Armor A 32x32 Sprite Sheet_20
+  - first:
+      213: 3059723922039913932
+    second: Knight Armor A 32x32 Sprite Sheet_21
+  - first:
+      213: -1110485173119903307
+    second: Knight Armor A 32x32 Sprite Sheet_22
+  - first:
+      213: 6639160348272232821
+    second: Knight Armor A 32x32 Sprite Sheet_23
+  - first:
+      213: 8971071845679720361
+    second: Knight Armor A 32x32 Sprite Sheet_24
+  - first:
+      213: -439347848455206200
+    second: Knight Armor A 32x32 Sprite Sheet_25
+  - first:
+      213: 2135813271889135582
+    second: Knight Armor A 32x32 Sprite Sheet_26
+  - first:
+      213: -2566712008998393089
+    second: Knight Armor A 32x32 Sprite Sheet_27
+  - first:
+      213: -8495443060795497562
+    second: Knight Armor A 32x32 Sprite Sheet_28
+  - first:
+      213: 5021450998754689841
+    second: Knight Armor A 32x32 Sprite Sheet_29
+  - first:
+      213: -9074301407276412746
+    second: Knight Armor A 32x32 Sprite Sheet_30
+  - first:
+      213: -8091756799709407676
+    second: Knight Armor A 32x32 Sprite Sheet_31
+  - first:
+      213: -1928992074405358871
+    second: Knight Armor A 32x32 Sprite Sheet_32
+  - first:
+      213: 4336571091404215997
+    second: Knight Armor A 32x32 Sprite Sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd789f8918725a10800000000000000
+      internalID: 1896710444255051207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 191
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9017ad073e3fcf0800000000000000
+      internalID: -219581882970338831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 191
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638445b162eaee720800000000000000
+      internalID: 2877428690626824246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 159
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731393f1d0efb6150800000000000000
+      internalID: 5867062271892074807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610020b2c09a365d0800000000000000
+      internalID: -3070424651210293226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc122431a9a2a70800000000000000
+      internalID: 8803017829153622936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7060cb41359e028e0800000000000000
+      internalID: -1720118514616105465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9972f3c0bb8a8c550800000000000000
+      internalID: 6181376009883821977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b957fe8b0d918bf0800000000000000
+      internalID: -323805025225188944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6314b1905898521a0800000000000000
+      internalID: -6834905654988422858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 127
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f1345a4427e520800000000000000
+      internalID: 2731191600682234194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95ba1458e479d260800000000000000
+      internalID: 7122852826855421338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 99
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b2641281a50e5a0800000000000000
+      internalID: -6494091602984293544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 99
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da41c946a5a63c340800000000000000
+      internalID: 4882863357467301037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 99
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f6fcfc3cc53cbd0800000000000000
+      internalID: -2611141362869899484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61babf576ff07f8f0800000000000000
+      internalID: -506918881840092394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8079079be7f0d50800000000000000
+      internalID: 6705717705100953773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e486cc77c12318460800000000000000
+      internalID: 7242124773638826062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 95
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbb8775fb64ed1d0800000000000000
+      internalID: -3324141687332619341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 63
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f45987c9a42c10800000000000000
+      internalID: 2027932406691199393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 63
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf392701ad5f650800000000000000
+      internalID: 6266154220732545745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd34fb22b2567a20800000000000000
+      internalID: 3059723922039913932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 63
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b999df5e93c690f0800000000000000
+      internalID: -1110485173119903307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 63
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57900a53929032c50800000000000000
+      internalID: 6639160348272232821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 63
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76f381056af7c70800000000000000
+      internalID: 8971071845679720361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 63
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cacef7a57f17e9f0800000000000000
+      internalID: -439347848455206200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 63
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed74481dadee3ad10800000000000000
+      internalID: 2135813271889135582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaebeed605316cd0800000000000000
+      internalID: -2566712008998393089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a32ab70c8f1a1a80800000000000000
+      internalID: -8495443060795497562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133cdcd1417cfa540800000000000000
+      internalID: 5021450998754689841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05672a2fa911280800000000000000
+      internalID: -9074301407276412746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4461878001e44bf80800000000000000
+      internalID: -8091756799709407676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e25686bde7da35e0800000000000000
+      internalID: -1928992074405358871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Armor A 32x32 Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db650667e689e2c30800000000000000
+      internalID: 4336571091404215997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Knight Armor A 32x32 Sprite Sheet_0: 1896710444255051207
+      Knight Armor A 32x32 Sprite Sheet_1: -219581882970338831
+      Knight Armor A 32x32 Sprite Sheet_10: 2731191600682234194
+      Knight Armor A 32x32 Sprite Sheet_11: 7122852826855421338
+      Knight Armor A 32x32 Sprite Sheet_12: -6494091602984293544
+      Knight Armor A 32x32 Sprite Sheet_13: 4882863357467301037
+      Knight Armor A 32x32 Sprite Sheet_14: -2611141362869899484
+      Knight Armor A 32x32 Sprite Sheet_15: -506918881840092394
+      Knight Armor A 32x32 Sprite Sheet_16: 6705717705100953773
+      Knight Armor A 32x32 Sprite Sheet_17: 7242124773638826062
+      Knight Armor A 32x32 Sprite Sheet_18: -3324141687332619341
+      Knight Armor A 32x32 Sprite Sheet_19: 2027932406691199393
+      Knight Armor A 32x32 Sprite Sheet_2: 2877428690626824246
+      Knight Armor A 32x32 Sprite Sheet_20: 6266154220732545745
+      Knight Armor A 32x32 Sprite Sheet_21: 3059723922039913932
+      Knight Armor A 32x32 Sprite Sheet_22: -1110485173119903307
+      Knight Armor A 32x32 Sprite Sheet_23: 6639160348272232821
+      Knight Armor A 32x32 Sprite Sheet_24: 8971071845679720361
+      Knight Armor A 32x32 Sprite Sheet_25: -439347848455206200
+      Knight Armor A 32x32 Sprite Sheet_26: 2135813271889135582
+      Knight Armor A 32x32 Sprite Sheet_27: -2566712008998393089
+      Knight Armor A 32x32 Sprite Sheet_28: -8495443060795497562
+      Knight Armor A 32x32 Sprite Sheet_29: 5021450998754689841
+      Knight Armor A 32x32 Sprite Sheet_3: 5867062271892074807
+      Knight Armor A 32x32 Sprite Sheet_30: -9074301407276412746
+      Knight Armor A 32x32 Sprite Sheet_31: -8091756799709407676
+      Knight Armor A 32x32 Sprite Sheet_32: -1928992074405358871
+      Knight Armor A 32x32 Sprite Sheet_33: 4336571091404215997
+      Knight Armor A 32x32 Sprite Sheet_4: -3070424651210293226
+      Knight Armor A 32x32 Sprite Sheet_5: 8803017829153622936
+      Knight Armor A 32x32 Sprite Sheet_6: -1720118514616105465
+      Knight Armor A 32x32 Sprite Sheet_7: 6181376009883821977
+      Knight Armor A 32x32 Sprite Sheet_8: -323805025225188944
+      Knight Armor A 32x32 Sprite Sheet_9: -6834905654988422858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

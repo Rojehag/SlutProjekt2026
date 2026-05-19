@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 61f802b0d2728c44e918ee315da4e14d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4087301550791466042
+    second: Fighter Char 32x32 Sprite Sheet_0
+  - first:
+      213: -2658804376333677603
+    second: Fighter Char 32x32 Sprite Sheet_1
+  - first:
+      213: -4695687493083757562
+    second: Fighter Char 32x32 Sprite Sheet_2
+  - first:
+      213: 391791100974066722
+    second: Fighter Char 32x32 Sprite Sheet_3
+  - first:
+      213: -7753677868229861457
+    second: Fighter Char 32x32 Sprite Sheet_4
+  - first:
+      213: 1622503994375574078
+    second: Fighter Char 32x32 Sprite Sheet_5
+  - first:
+      213: -4977027994699714726
+    second: Fighter Char 32x32 Sprite Sheet_6
+  - first:
+      213: -983394964420365423
+    second: Fighter Char 32x32 Sprite Sheet_7
+  - first:
+      213: 8198182720695177890
+    second: Fighter Char 32x32 Sprite Sheet_8
+  - first:
+      213: -6627230872746510282
+    second: Fighter Char 32x32 Sprite Sheet_9
+  - first:
+      213: 7677218481581162955
+    second: Fighter Char 32x32 Sprite Sheet_10
+  - first:
+      213: -2429849642315407671
+    second: Fighter Char 32x32 Sprite Sheet_11
+  - first:
+      213: -8258916092374557220
+    second: Fighter Char 32x32 Sprite Sheet_12
+  - first:
+      213: -7142739764694376908
+    second: Fighter Char 32x32 Sprite Sheet_13
+  - first:
+      213: 1532953298111839953
+    second: Fighter Char 32x32 Sprite Sheet_14
+  - first:
+      213: 3425018509324075949
+    second: Fighter Char 32x32 Sprite Sheet_15
+  - first:
+      213: 4350980690852642563
+    second: Fighter Char 32x32 Sprite Sheet_16
+  - first:
+      213: -3098116229791244907
+    second: Fighter Char 32x32 Sprite Sheet_17
+  - first:
+      213: -1011632597767037364
+    second: Fighter Char 32x32 Sprite Sheet_18
+  - first:
+      213: 1369288355932194316
+    second: Fighter Char 32x32 Sprite Sheet_19
+  - first:
+      213: 6782458322548433095
+    second: Fighter Char 32x32 Sprite Sheet_20
+  - first:
+      213: 8330431534251238642
+    second: Fighter Char 32x32 Sprite Sheet_21
+  - first:
+      213: -9052739372854099909
+    second: Fighter Char 32x32 Sprite Sheet_22
+  - first:
+      213: -7345455619756056180
+    second: Fighter Char 32x32 Sprite Sheet_23
+  - first:
+      213: -2324987921335488779
+    second: Fighter Char 32x32 Sprite Sheet_24
+  - first:
+      213: 2164671813967519228
+    second: Fighter Char 32x32 Sprite Sheet_25
+  - first:
+      213: -7441349855416892952
+    second: Fighter Char 32x32 Sprite Sheet_26
+  - first:
+      213: 4122466505020574848
+    second: Fighter Char 32x32 Sprite Sheet_27
+  - first:
+      213: -5731952657459536930
+    second: Fighter Char 32x32 Sprite Sheet_28
+  - first:
+      213: -2460392528703294425
+    second: Fighter Char 32x32 Sprite Sheet_29
+  - first:
+      213: -443392311064508255
+    second: Fighter Char 32x32 Sprite Sheet_30
+  - first:
+      213: -4842937972848789863
+    second: Fighter Char 32x32 Sprite Sheet_31
+  - first:
+      213: 3070521057248250104
+    second: Fighter Char 32x32 Sprite Sheet_32
+  - first:
+      213: -1310315860784143645
+    second: Fighter Char 32x32 Sprite Sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3eb2f15ecf647c0800000000000000
+      internalID: -4087301550791466042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 191
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb8065b1870a1bd0800000000000000
+      internalID: -2658804376333677603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 191
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6048f769a1195deb0800000000000000
+      internalID: -4695687493083757562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ce7b73eebef6500800000000000000
+      internalID: 391791100974066722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 159
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafd9514f07656490800000000000000
+      internalID: -7753677868229861457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32986759ca448610800000000000000
+      internalID: 1622503994375574078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 159
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fafb2886b0eeab0800000000000000
+      internalID: -4977027994699714726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193f0d77d774a52f0800000000000000
+      internalID: -983394964420365423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a218c6afbbc5c170800000000000000
+      internalID: 8198182720695177890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 127
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638317142a85704a0800000000000000
+      internalID: -6627230872746510282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 127
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc185b98885fa8a60800000000000000
+      internalID: 7677218481581162955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 97
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce1e2ccf90774ed0800000000000000
+      internalID: -2429849642315407671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddd144529f626d80800000000000000
+      internalID: -8258916092374557220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 100
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e95522704efdc90800000000000000
+      internalID: -7142739764694376908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 101
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de383717e4264510800000000000000
+      internalID: 1532953298111839953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3466d003c188f20800000000000000
+      internalID: 3425018509324075949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 95
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ffad6c2e9c16c30800000000000000
+      internalID: 4350980690852642563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 95
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d9b6a14b74105d0800000000000000
+      internalID: -3098116229791244907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed3ee1385f5f1f0800000000000000
+      internalID: -1011632597767037364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 63
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06ca624180b00310800000000000000
+      internalID: 1369288355932194316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 63
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0246bc8e1202e50800000000000000
+      internalID: 6782458322548433095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4e1c80853ab9370800000000000000
+      internalID: 8330431534251238642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 63
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c6dcf0853e5280800000000000000
+      internalID: -9052739372854099909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 63
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c812b0f1803bf0a90800000000000000
+      internalID: -7345455619756056180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe69b9cdcbfbbfd0800000000000000
+      internalID: -2324987921335488779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 63
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd95debb857a0e10800000000000000
+      internalID: 2164671813967519228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 63
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c8728bb30bb890800000000000000
+      internalID: -7441349855416892952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c823ec171f53930800000000000000
+      internalID: 4122466505020574848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb94ce5d630470b0800000000000000
+      internalID: -5731952657459536930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 31
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7247d96e70eeaddd0800000000000000
+      internalID: -2460392528703294425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a84cd2da01c8d9f0800000000000000
+      internalID: -443392311064508255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996f81b929d6accb0800000000000000
+      internalID: -4842937972848789863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f883ac12aeac9a20800000000000000
+      internalID: 3070521057248250104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fighter Char 32x32 Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2a66ebaa2d0dde0800000000000000
+      internalID: -1310315860784143645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fighter Char 32x32 Sprite Sheet_0: -4087301550791466042
+      Fighter Char 32x32 Sprite Sheet_1: -2658804376333677603
+      Fighter Char 32x32 Sprite Sheet_10: 7677218481581162955
+      Fighter Char 32x32 Sprite Sheet_11: -2429849642315407671
+      Fighter Char 32x32 Sprite Sheet_12: -8258916092374557220
+      Fighter Char 32x32 Sprite Sheet_13: -7142739764694376908
+      Fighter Char 32x32 Sprite Sheet_14: 1532953298111839953
+      Fighter Char 32x32 Sprite Sheet_15: 3425018509324075949
+      Fighter Char 32x32 Sprite Sheet_16: 4350980690852642563
+      Fighter Char 32x32 Sprite Sheet_17: -3098116229791244907
+      Fighter Char 32x32 Sprite Sheet_18: -1011632597767037364
+      Fighter Char 32x32 Sprite Sheet_19: 1369288355932194316
+      Fighter Char 32x32 Sprite Sheet_2: -4695687493083757562
+      Fighter Char 32x32 Sprite Sheet_20: 6782458322548433095
+      Fighter Char 32x32 Sprite Sheet_21: 8330431534251238642
+      Fighter Char 32x32 Sprite Sheet_22: -9052739372854099909
+      Fighter Char 32x32 Sprite Sheet_23: -7345455619756056180
+      Fighter Char 32x32 Sprite Sheet_24: -2324987921335488779
+      Fighter Char 32x32 Sprite Sheet_25: 2164671813967519228
+      Fighter Char 32x32 Sprite Sheet_26: -7441349855416892952
+      Fighter Char 32x32 Sprite Sheet_27: 4122466505020574848
+      Fighter Char 32x32 Sprite Sheet_28: -5731952657459536930
+      Fighter Char 32x32 Sprite Sheet_29: -2460392528703294425
+      Fighter Char 32x32 Sprite Sheet_3: 391791100974066722
+      Fighter Char 32x32 Sprite Sheet_30: -443392311064508255
+      Fighter Char 32x32 Sprite Sheet_31: -4842937972848789863
+      Fighter Char 32x32 Sprite Sheet_32: 3070521057248250104
+      Fighter Char 32x32 Sprite Sheet_33: -1310315860784143645
+      Fighter Char 32x32 Sprite Sheet_4: -7753677868229861457
+      Fighter Char 32x32 Sprite Sheet_5: 1622503994375574078
+      Fighter Char 32x32 Sprite Sheet_6: -4977027994699714726
+      Fighter Char 32x32 Sprite Sheet_7: -983394964420365423
+      Fighter Char 32x32 Sprite Sheet_8: 8198182720695177890
+      Fighter Char 32x32 Sprite Sheet_9: -6627230872746510282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
