@@ -7,7 +7,7 @@ public class Wepons : Item
     float criticalChance;
 
 
-    public Wepons(string name, int damage,  string description, float timeBetweenAttacks, float criticalChance) : base(name, description)
+    public Wepons(string name, int damage,  string description, float timeBetweenAttacks, float criticalChance, int spriteID) : base(name, description, spriteID)
     {
         this.damage = damage;
         this.timeBetweenAttacks = timeBetweenAttacks;

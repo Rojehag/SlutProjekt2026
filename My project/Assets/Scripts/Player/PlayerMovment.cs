@@ -4,12 +4,10 @@ using UnityEngine;
 
 public class PlayerMovment : MonoBehaviour
 {
-    [SerializeField]LayerMask groundLayer;
+    
 
     //This script is responsible for the player's movement and jump
     Rigidbody2D playerRb;
-    //Ground check to check if the player is on the ground or not
-    [SerializeField] GameObject groundCheck;
 
     [Header("Player Locomotion")]
     [SerializeField] int playerjumpPower;
@@ -48,7 +46,7 @@ public class PlayerMovment : MonoBehaviour
             particleSystem.Stop();
             Movment(new Vector2(0, playerRb.linearVelocityY),0);
         }
-        if (Input.GetKeyDown(KeyCode.Space) && CheckIfGrounded())
+        if (Input.GetKeyDown(KeyCode.Space) && GetComponent<Physics>().CheckIfGrounded())
         {
             MovmentUp();
         }
@@ -59,11 +57,11 @@ public class PlayerMovment : MonoBehaviour
     //Function to move the player in the direction of the input and speed
     void Movment(Vector2 direction, int rotation)
     {
-        if (CheckIfGrounded() && particleSystem.isStopped) 
+        if (GetComponent<Physics>().CheckIfGrounded() && particleSystem.isStopped) 
         {
             particleSystem.Play();
         }
-        StartCoroutine(WaitForParticleSystem(rotation));
+        particleSystem.transform.rotation = Quaternion.Euler(0, rotation, 0);
         playerRb.linearVelocity = new(Mathf.Lerp(playerRb.linearVelocityX, direction.x, Time.deltaTime * acceleration), direction.y);
     }
 
@@ -71,19 +69,12 @@ public class PlayerMovment : MonoBehaviour
     void MovmentUp()
     {
         playerRb.AddForce(Vector2.up * playerjumpPower, ForceMode2D.Impulse);
+        particleSystem.Stop();
     }
 
-    public bool CheckIfGrounded()
-    {
-       RaycastHit2D[] colliders = Physics2D.BoxCastAll(groundCheck.transform.position, new Vector2(0.95f, 0.2f),0, Vector2.down, 0.5f, groundLayer);
-        return colliders.Length > 0;
+   
+   
 
-    }
-    IEnumerator WaitForParticleSystem(int rotation)
-    {
-        yield return new WaitForSeconds(1f);
-
-        particleSystem.transform.rotation = Quaternion.Euler(0, rotation, 0);
-    }
-
+      
+  
 }
