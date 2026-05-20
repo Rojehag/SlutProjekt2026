@@ -95,9 +95,4 @@ public class PlayerMovment : MonoBehaviour
         particleSystem.Stop();
     }
 
-   
-   
-
-      
-  
 }
