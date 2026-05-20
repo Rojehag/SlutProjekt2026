@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28294b8558bfc594282ff137f21c5540, type: 3}
+  m_Name: PlayerBasic
+  m_EditorClassIdentifier: Assembly-CSharp::Attack
+  velocity: 20
+  shotDelay: 0.1
+  shotSpreadAngle: 10
+  range: 20
+  firePoint: {fileID: 0}
+  fireObject: {fileID: 8952283252530121858, guid: 67f072070efcf2a40b658ea1398b2f91, type: 3}
+  damage: 20
+  critChance: 15
+  critBonus: 1.5
