@@ -46,9 +46,21 @@ public class Inventory : MonoBehaviour
         }
     }
 
-    void DropItem()
+    void DropItem(Item item)
     {
         //When Ui for inventory is made this will be used for the player to choose an item in the inventory to drop
         //It will then be removed from the inventory and instanciated in the world as a pickable item
+        if (inventory.Contains(item))
+        {
+            inventory.Remove(item);
+            print("Item removed from inventory");
+
+            //Instantiate the item in the world as a pickable item
+        }
+        else
+        {
+            print("Item not found in inventory");
+        }
+       
     }
 }

@@ -33,7 +33,7 @@ public class Physics : MonoBehaviour
     }
     public bool CheckIfGrounded()
     {
-        RaycastHit2D[] colliders = Physics2D.BoxCastAll(groundCheck.transform.position, new Vector2(0.95f, 0.2f), 0, Vector2.down, 0.5f, groundLayer);
+        RaycastHit2D[] colliders = Physics2D.BoxCastAll(groundCheck.transform.position, new Vector2(0.5f, 0.2f), 0, Vector2.down, 0.5f, groundLayer);
         return colliders.Length > 0;
 
     }

@@ -18,6 +18,7 @@ public class EnemyHealth: ChangeHealth
 
     public override void Death()
     {
+        //Play death Animation
         //Enemy death
         Destroy(gameObject);
     }

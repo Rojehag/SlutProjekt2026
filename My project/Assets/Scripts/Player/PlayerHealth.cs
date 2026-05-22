@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealth : ChangeHealth
 {
@@ -29,7 +30,6 @@ public class PlayerHealth : ChangeHealth
 
     public override void Death()
     {
-        //Load death scene
-        print("Player Dead");
+        SceneManager.LoadScene(0);
     }
 }
