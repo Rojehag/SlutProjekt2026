@@ -78,9 +78,10 @@ GameObject:
   - component: {fileID: 2102293478290517827}
   - component: {fileID: 159304340892083023}
   - component: {fileID: 7854188001961571342}
+  - component: {fileID: 2848713495445194830}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -179,6 +180,8 @@ MonoBehaviour:
   playerSpeed: 5
   acceleration: 2
   particleSystem: {fileID: 7910650044132380113}
+  playerAnim: {fileID: 2848713495445194830}
+  directionOfPlayer: 0
 --- !u!50 &3671406769134700242
 Rigidbody2D:
   serializedVersion: 5
@@ -287,6 +290,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6321d805156ee3a458771be725fbb32c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAttackmanager
+  attack: {fileID: 11400000, guid: f1a40087e02ad2945b810426fe6d18a0, type: 2}
+  firePoint: {fileID: 5595221355410598989}
+--- !u!95 &2848713495445194830
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6103766899335023371}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: bb0b6dc2d7140934b9d4890612a5ff3c, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &6281039238251642264
 GameObject:
   m_ObjectHideFlags: 0

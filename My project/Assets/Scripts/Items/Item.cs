@@ -1,29 +1,12 @@
 using UnityEngine;
 
-public class Item
+
+public class Item: ScriptableObject
 {
-    string name;
-    string description;
-    int spriteID;
+    //This is the base class for all items it contains the basic stats that all items have and then the wepon and consumable classes will inherit from this and add their own stats
+    public string name;
+    public string description;
+    public Sprite sprite;
+    public int quantity;
 
-    public Item(string name, string description, int spriteID)
-    {
-        this.name = name;
-        this.description = description;
-        this.spriteID = spriteID;
-    }
-
-    public string GetName()
-    {
-        return name;
-    }
-
-    public string GetDescription()
-    {
-        return description;
-    }
-    public int GetSpriteID()
-    {
-        return spriteID;
-    }
 }

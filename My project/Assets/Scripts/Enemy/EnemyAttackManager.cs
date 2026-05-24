@@ -1,12 +1,13 @@
 using UnityEngine;
 
-public class PlayerAttackmanager : MonoBehaviour
+public class EnemyAttackManager : MonoBehaviour
 {
-    //This script is responsible for managing the player's attacks, such as shooting projectiles and calculating damage
-
-    //Attack scriptable object to store the attack's information, such as damage, shot delay, and crit chance
     [SerializeField] Attack attack;
     [SerializeField] GameObject firePoint;
+
+    GameObject fireTarget;
+
+    bool attackPlayer;
 
     //Float to keep track of the time between projectiles, to check if the player can shoot again
     float timeBetweenProjectiles;
@@ -14,7 +15,7 @@ public class PlayerAttackmanager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        fireTarget = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -23,20 +24,30 @@ public class PlayerAttackmanager : MonoBehaviour
         //Increase the time between projectiles by the time that has passed since the last frame
         timeBetweenProjectiles += Time.deltaTime;
 
-        //Check if the left mouse button is pressed and if the time between projectiles is greater than the shot delay, if it is, call the UseAttack function
-        if (Input.GetKey(KeyCode.Mouse0) && timeBetweenProjectiles > attack.shotDelay)
+        if (gameObject.transform.position.x - fireTarget.transform.position.x < 25 && gameObject.transform.position.x - fireTarget.transform.position.x > -25)
         {
-            UseAttack();
+            attackPlayer = true;
+        }
+        else
+        {
+            attackPlayer = false;
         }
 
-        
+        if (attackPlayer)
+        {
+            //Check if the left mouse button is pressed and if the time between projectiles is greater than the shot delay, if it is, call the UseAttack function
+            if (timeBetweenProjectiles > attack.shotDelay)
+            {
+                UseAttack();
+            }
+        }
     }
 
     //Function to use the attack, which instantiates the projectile prefab at the fire point's position and resets the time between projectiles
     void UseAttack()
     {
         //Instantiate the projectile prefab at the fire point's position with no rotation
-        Instantiate(attack.projectilePrefab, firePoint.transform.position, Quaternion.Euler(0,0,0));
+        Instantiate(attack.projectilePrefab, firePoint.transform.position, Quaternion.Euler(0, 0, 0));
 
         timeBetweenProjectiles = 0;
     }

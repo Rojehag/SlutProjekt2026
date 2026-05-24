@@ -10,13 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 28294b8558bfc594282ff137f21c5540, type: 3}
-  m_Name: PlayerBasic
+  m_Name: EnemyBasic
   m_EditorClassIdentifier: Assembly-CSharp::Attack
-  velocity: 10
+  name: EnemyBasic
+  description: Basic Attck by enemy
+  sprite: {fileID: 0}
+  quantity: 0
+  velocity: 20
   shotDelay: 0.1
   shotSpreadAngle: 10
-  range: 20
-  projectilePrefab: {fileID: 8952283252530121858, guid: 67f072070efcf2a40b658ea1398b2f91, type: 3}
-  damage: 10
+  range: 35
+  projectilePrefab: {fileID: 8952283252530121858, guid: 2ffdc67600e00c64ba831bfe304311bc, type: 3}
+  damage: 20
   critChance: 15
   critBonus: 1.5

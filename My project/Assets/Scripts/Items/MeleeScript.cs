@@ -1,16 +1,13 @@
 using UnityEngine;
-
-public class MeleeScript : Wepons
+[CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/MeleeWeapon", order = 3)]
+public class MeleeScript : Item
 {
-    float weaponHitBoxSize;
+    //This is the class for all melee wepons it contains the basic stats that all melee wepons have and then the sword and axe classes will inherit from this and add their own stats
+    public float weaponHitBoxSize;
+    //Stats
+    public int damage;
+    public float timeBetweenAttacks;
+    public float criticalChance;
 
-    public MeleeScript(string name, int damage, string description, float timeBetweenAttacks, float criticalChance, float weaponHitBoxSize, int spriteID) : base(name, damage, description, timeBetweenAttacks, criticalChance, spriteID)
-    {
-        this.weaponHitBoxSize = weaponHitBoxSize;
-    }
 
-    public float GetWeaponHitBoxSize()
-    {
-        return weaponHitBoxSize;
-    }
 }
